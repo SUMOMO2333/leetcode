@@ -5,6 +5,13 @@
 #include<unordered_set>
 using namespace std;
 
+
+//Find longest  Unrepected  substring of an given string
+//#compiled under linux
+//#key algorithm is called Sliding window.
+
+
+
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
